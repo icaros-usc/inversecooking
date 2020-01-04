@@ -1,3 +1,4 @@
+> :warning: **Warning:** This fork is mainly used as a submodule in [symbolic_action_learning](https://github.com/icaros-usc/symbolic_action_learning) 
 ## Inverse Cooking: Recipe Generation from Food Images
 
 Code supporting the paper:
